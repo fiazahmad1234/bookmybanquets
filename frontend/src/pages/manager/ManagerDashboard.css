@@ -1,0 +1,19 @@
+.hall-list-item {
+  display: flex; align-items: center; gap: 14px;
+  padding: 12px 24px; border-bottom: 1px solid var(--border-light);
+  transition: background 0.15s; cursor: pointer;
+}
+.hall-list-item:last-child { border-bottom: none; }
+.hall-list-item:hover { background: var(--cream); }
+.hli-img { width: 52px; height: 44px; border-radius: var(--radius); overflow: hidden; background: var(--cream-dark); display: flex; align-items: center; justify-content: center; font-size: 22px; flex-shrink: 0; }
+.hli-img img { width: 100%; height: 100%; object-fit: cover; }
+.hli-info { flex: 1; min-width: 0; }
+.hli-name { font-weight: 600; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.hli-meta { font-size: 12px; color: var(--text-muted); margin-top: 2px; }
+.hli-stats { text-align: right; }
+.hli-bookings { font-size: 12px; color: var(--text-muted); margin-top: 4px; }
+.pie-legend { display: flex; flex-direction: column; gap: 10px; }
+.pie-legend-item { display: flex; align-items: center; gap: 10px; font-size: 14px; }
+.pie-dot { width: 12px; height: 12px; border-radius: 50%; flex-shrink: 0; }
+.pie-legend-item span { flex: 1; color: var(--text-secondary); }
+.pie-legend-item strong { color: var(--text-primary); }
