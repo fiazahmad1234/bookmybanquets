@@ -128,8 +128,6 @@ Frontend runs on: `http://localhost:3000`
 
 ---
 
-## Features
-
 ### Customer
 - Browse & search 500+ halls with 15+ filters
 - **AI-powered recommendations** (event type, budget, city)
