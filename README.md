@@ -1,18 +1,18 @@
-# 🏛️ BookMyBanquets
+# BookMyBanquets
 ## Pakistan's #1 Premium Banquet Hall Booking Platform
 
 A **full-stack MERN-style** event venue booking platform with PostgreSQL, built with React + Node.js + Express + Socket.IO.
 
 ---
 
-## 🎨 Theme & Design
+## Theme & Design
 - **Colors:** Deep Amber `#C4823A` · Dark Mahogany `#2C1810` · Warm Cream `#FDF5E6` · Burgundy `#8B1A1A`
 - **Fonts:** Playfair Display (headings) · DM Sans (body) · Cormorant Garamond (elegant text)
 - **Style:** Luxury premium aesthetic — unique, professional, non-generic
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 bookmybanquets/
@@ -55,7 +55,7 @@ bookmybanquets/
 
 ---
 
-## 🚀 Quick Setup
+## Quick Setup
 
 ### Prerequisites
 - **Node.js** v18+
@@ -118,7 +118,7 @@ Frontend runs on: `http://localhost:3000`
 
 ---
 
-## 🔐 Demo Credentials
+## Demo Credentials
 
 | Role     | Email                          | Password      |
 |----------|--------------------------------|---------------|
@@ -128,9 +128,9 @@ Frontend runs on: `http://localhost:3000`
 
 ---
 
-## ✨ Features
+## Features
 
-### 👤 Customer
+### Customer
 - Browse & search 500+ halls with 15+ filters
 - **AI-powered recommendations** (event type, budget, city)
 - Side-by-side hall comparison (up to 4)
@@ -143,7 +143,7 @@ Frontend runs on: `http://localhost:3000`
 - Notification center
 - Profile management
 
-### 🏛️ Hall Manager
+### Hall Manager
 - Add & manage multiple halls
 - Upload hall images and amenities
 - View booking requests (confirm/reject)
@@ -152,7 +152,7 @@ Frontend runs on: `http://localhost:3000`
 - Reply to customer reviews
 - Real-time chat with customers
 
-### 👑 Admin
+### Admin
 - Platform-wide dashboard
 - User management (enable/disable)
 - Hall approval workflow
@@ -162,7 +162,7 @@ Frontend runs on: `http://localhost:3000`
 
 ---
 
-## 🌐 API Endpoints
+## API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -180,7 +180,7 @@ Frontend runs on: `http://localhost:3000`
 
 ---
 
-## 🤖 AI Prediction Logic
+## AI Prediction Logic
 
 The AI recommendation engine scores halls based on:
 - **40%** Average rating
@@ -193,7 +193,7 @@ Each recommendation includes a personalized reason string highlighting key match
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -211,7 +211,7 @@ Each recommendation includes a personalized reason string highlighting key match
 
 ---
 
-## 📧 Email Configuration
+## Email Configuration
 
 Update `.env` with SMTP credentials:
 ```
