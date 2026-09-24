@@ -1,5 +1,5 @@
 # BookMyBanquets
-## Pakistan's #1 Premium Banquet Hall Booking Platform
+# Pakistan's #1 Premium Banquet Hall Booking Platform
 
 A **full-stack MERN-style** event venue booking platform with PostgreSQL, built with React + Node.js + Express + Socket.IO.
 
