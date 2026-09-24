@@ -274,4 +274,3 @@ cd backend && NODE_ENV=production npm start
 
 ---
 
-**Built with ❤️ for BookMyBanquets**
