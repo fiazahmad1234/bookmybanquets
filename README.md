@@ -225,7 +225,7 @@ For Gmail: Enable 2FA → App Passwords → Generate password
 
 ---
 
-## 🌍 Environment Variables
+## Environment Variables
 
 ```env
 PORT=5000
@@ -246,7 +246,7 @@ FRONTEND_URL=http://localhost:3000
 
 ---
 
-## 🗃️ Database Tables
+## Database Tables
 
 1. **users** — Customers, Managers, Admins
 2. **halls** — Hall listings with all features
@@ -262,7 +262,7 @@ FRONTEND_URL=http://localhost:3000
 
 ---
 
-## 📦 Production Deployment
+## Production Deployment
 
 ```bash
 # Frontend build
